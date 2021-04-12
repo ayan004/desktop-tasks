@@ -1,0 +1,15 @@
+- two way data binding tutorial(D)
+- IOTManagement 
+	- create modal(D)
+	- hide sidebar(HD)
+- understand ngValue(D)
+- observables tutorial
+	- dont serve the observable app wihtout creating book.ts file
+- state management tutorial
+- state management tutorial
+
+
+
+
+checkout
+GIRF - great indian restaurant festival - 26th feb to 1st march

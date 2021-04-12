@@ -1,0 +1,16 @@
+
+- complete ngrx-demo-app
+
+
+- stopped the video at 3:33 - oracle database download and run - done
+- create a dammy table in oracle database and delete it - done
+- check your CV, print it out -submit all your documents and the CV
+- Express.js framework - failed to understand - Serving static files in Express
+- current goal of the app -admin can see the location of all the app users
+
+
+map project
+--------------
+- try to manipulate the oracle database using node.js
+- whenever any user install the app, the device id will be displayed on the admin panel
+	- 

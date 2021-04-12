@@ -1,0 +1,11 @@
+typeWrighter
+--------------
+- create form, onSubmit display the data on console
+
+
+Angular-state-management
+--------------------------
+From the tutorial try to understand
+	- selector
+	- entity
+

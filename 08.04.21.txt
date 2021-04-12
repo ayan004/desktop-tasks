@@ -1,0 +1,47 @@
+typeWriter project     [keep the project in desktop only]
+-----------------------
+- no new task
+
+map project         
+-------------
+- run map-clone project on your desktop
+
+- connect node with mongoDB
+	- links to open
+		- "https://docs.mongodb.com/drivers/node/quick-start/"  [tutorial for connecting node with mongoDB]
+			- start from heading- "Connect to your Cluster"
+		- "https://docs.atlas.mongodb.com/getting-started/?tck=docs_driver_nodejs"  [tutorial for creating mongoDB ac]
+			- start from here- "Part 3: Add Your Connection IP Address to Your IP Access List."
+		- open your Atlas: MongoDB account
+			- you can see your clusters here: you can assume each cluster as individual datasets
+
+- before installing linux mint you should make a perfect clone of your laptop on desktop
+
+- install linux mint on your system before working with node and mongoDb
+
+- try to start creating the backend of your map-clone project
+
+setting up the new computer
+-----------------------------
+- create backup of the laptop on the desktop except the xxx files - most important
+
+
+
+
+
+
+
+
+
+
+
+BEFORE PLAN CHANGE
+-------------------
+map project         
+-------------
+- complete the short tutorial related with Oracle db and sequelize library - done
+- complete express + mysql + angular10 project that yyou are doing from youtube [here I am doing it with Oracle bd and sequelize library] - half done
+	- problem detected 
+	- maybe using 'mysql' database will solve my problem
+- complete tutorial - nodejs mysql tutorial using XAMPP [here I am doing it with XAMPP server and mysql library]
+- try to start creating the backend of your map-clone project

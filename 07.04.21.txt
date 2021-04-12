@@ -1,0 +1,16 @@
+typeWriter project     [keep the project in desktop only]
+-----------------------
+- complete the tasks left
+
+map project         
+-------------
+- complete the short tutorial related with Oracle db and sequelize library - done
+- complete express + mysql + angular10 project that yyou are doing from youtube [here I am doing it with Oracle bd and sequelize library] - half done
+	- problem detected 
+	- maybe using 'mysql' database will solve my problem
+- complete tutorial - nodejs mysql tutorial using XAMPP [here I am doing it with XAMPP server and mysql library]
+- try to start creating the backend of your map-clone project
+
+setting up the new computer
+-----------------------------
+- create backup of the laptop on the desktop except the xxx files

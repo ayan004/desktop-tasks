@@ -1,0 +1,96 @@
+To-do-now-Angular
+--------------------
+- app with two pages - form & table - state managment & reactive form - task assigned by pankaj sir
+- start watching from tut 67 on Angular Testing - end - lec 78 - might done till 69 or 70
+- copy new angular apps to penDrive
+
+***************************************************************************************************************
+
+To-do-now-Python
+--------------------
+- Tutorial you watching - stopped - 2:53:17 - done till - performed sshbruteforce - run it again
+(since not completed it sucessfully)
+
+To-do-now-shellScript
+--------------------
+- middle of tut2 - downloaded tomcat - uncovered tomcat.tar file
+
+
+***************************************************************************************************************
+
+To-do-now-Others
+--------------------
+- call on 16.02.21 - PMKVY Orion liluah - contact for certificate - contact person: Sanjay Saha
+	- and visit on 17.02.21 - with bank passbook as salary evidance
+- call munnama
+- call pisimoni
+- call mouma
+- call rana kaka
+- --------------------
+
+
+***************************************************************************************************************
+***************************************************************************************************************
+***************************************************************************************************************
+
+
+To-Do-Next-Angular
+--------------------------
+- tutorial on chrome developer tools
+
+
+***************************************************************************************************************
+
+To-do-now-CScript
+----------------------
+- Not started yet 
+
+To-Do-Next-Network & Operating System
+---------------------------------------
+- Theory and practical
+- Don't know what to do now
+
+
+***************************************************************************************************************
+
+
+To-Do-Next-Others
+---------------------
+- PFUIN - provident fund unique identification number - pradip da
+- Learn International Trade - what to do
+
+
+***************************************************************************************************************
+***************************************************************************************************************
+***************************************************************************************************************
+
+
+Abandoned-For-Now
+-----------------------------------
+
+To-do-now-Theory
+--------------------
+- Digital Circuits - start from micro-processor - almost 20 lectures - 10 hours - lec 48 - 14:20
+- Total 20 lecs - 19.5 left
+- Theories planned
+	- Digital Circuits
+	- Microprocessor and Microcontroller
+	- Operating System
+	- Software Engineering
+	- Compiler Design
+	- Automata
+	- Algorithms
+	- Data Structure
+	- Mathematics
+	- You have to assume that you have done all off these & you have to clear all these from your board
+	- There's no meaning of just reading it, without doing any practical application of these
+
+
+To-do-now-CurrencyExchange
+-----------------------------
+- Khan Academy - start from tut3
+
+
+
+
+

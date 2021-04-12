@@ -1,0 +1,16 @@
+typeWriter project
+-----------------------
+- run the project in laptop and desktop
+	- in laptop I m having the codes that I have written - gonna run that - 05.04.21
+	- I should collect the current code in github from Neelesh- 05.04.21
+	- in desktop I should run thee code shared recently by Nilesh - & put my codes from laptop into desktop- 05.04.21
+
+map project
+-------------
+- complete express + mysql + angular project that yyou are doing from youtube
+- try to start creating the backend of your map-clone project
+
+setting up the new computer
+-----------------------------
+- run the typeWriter project first - done
+- create backup of the laptop on the desktop exceptt the xxx files

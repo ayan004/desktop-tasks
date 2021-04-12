@@ -1,0 +1,16 @@
+typeWriter project
+-----------------------
+- run the project in desktop
+	- ask neelesh for the current file...run it
+	- check all your codes are upgraded or not...if not, first inform neelesh...then do as required
+	- ask for new task
+
+map project
+-------------
+- complete express + mysql + angular10 project that yyou are doing from youtube [here I am doing it with Oracle bd and sequelize library]
+- complete tutorial - nodejs mysql tutorial using XAMPP [here I am doing it with XAMPP server and mysql library]
+- try to start creating the backend of your map-clone project
+
+setting up the new computer
+-----------------------------
+- create backup of the laptop on the desktop except the xxx files
